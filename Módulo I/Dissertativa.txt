@@ -1,0 +1,7 @@
+Questão 2: O paradigma de programação mais indicado para implementar o sistema de gerenciamento da biblioteca seria c) programação orientada a objetos (POO).
+
+Justificativa do Paradigma: O cenário da biblioteca envolve entidades do mundo real bem definidas — livros, autores, usuários e empréstimos — que possuem características e comportamentos próprios. A POO é ideal porque permite modelar diretamente essas entidades como classes e objetos, encapsulando dados e regras de negócio.
+
+Reuso e Evolução: A reutilização de código é facilitada por pilares como herança e composição. Se o sistema precisar evoluir no futuro para incluir novos tipos de itens (como revistas ou mídias digitais) ou novos tipos de usuários (como estudantes ou professores com regras de empréstimo diferentes), a estrutura orientada a objetos absorve essas mudanças sem que seja necessário reescrever o código base.
+
+Eficiência: A organização modular facilita a manutenção e a clareza do código em sistemas de médio e grande porte, superando a programação estruturada nesse quesito.
